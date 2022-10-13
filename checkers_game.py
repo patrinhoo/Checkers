@@ -1,7 +1,7 @@
 import pygame
-from items.board import Board
-from items.player import Player
-from items.settings import SIZE, CELL_SIZE, OFFSET, COORDINATES_WIDTH
+from board import Board
+from player import Player
+from settings import SIZE, CELL_SIZE, OFFSET, COORDINATES_WIDTH
 pygame.font.init()
 
 

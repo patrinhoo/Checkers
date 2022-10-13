@@ -1,5 +1,5 @@
 import pygame
-from .settings import SIZE, CELL_SIZE, OFFSET, COORDINATES_WIDTH
+from settings import SIZE, CELL_SIZE, OFFSET, COORDINATES_WIDTH
 
 
 class Player:
